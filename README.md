@@ -1,14 +1,38 @@
-Hello Everyone, This is me - NIDHI SHARMA.  
---->  A passionate learner of Data Science from the expert like you guys!!!
+# 👋 Hi, I'm Nidhi Sharma
 
-- 👋 Hi, I am Nidhi Sharma from INDIA.
-- 👀 I’m interested in Data Science and want to deep dive into this field.
-- 🌱 I’m currently learning Data Science from krish naik sir, nitish sir..
-- 💞️ I have 2 star on Hackerrank and hardly work on getting the 3rd Star.
-- 📫 How to reach me:- Connect with me through my email:- nidhisharma070405@gmail.com  and linkedin https://www.linkedin.com/in/nidhi-sharma-1708b7285
-- ⚡ Just want to create magic by turning the complex data into actionable insights that drive success.
+**💡 Data Science Enthusiast | 4-Star HackerRank in Python | Turning Data into Insights**
 
-<!---
-Nidhi0704/Nidhi0704 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### About Me
+
+Welcome to my GitHub profile! I'm **Nidhi Sharma**, an aspiring data scientist from India with a deep passion for uncovering insights from data. I believe in the power of data to drive decisions, and I’m committed to learning and building a career in data science.
+
+- 👀 **Passionate Learner**: Currently diving deep into data science, learning from experts.
+- 🌱 **Skills**: Machine Learning, Python, SQL, Flask, Pandas, NumPy, Matplotlib, Scikit-learn, and more.
+- 🚀 **Currently Working On**: Hands-on machine learning projects, experimenting with real-world data, and continuously improving my skills.
+- 💼 **Hackerrank Achievements**: Proud holder of **4 stars in Python** and striving to master more!
+- 📫 **Let’s Connect**: Feel free to reach out via [Email](mailto:nidhisharma070405@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nidhi-sharma-1708b7285).
+
+---
+
+### 🔨 My Projects
+
+Here are a few of my key projects. Feel free to explore!
+
+- **[Project 1: Amazon Smart Watch Price Prediction](#)**: Implemented a machine learning model to predict the amazon's smart watch price prediction based on various features. Tools used: Python, Scikit-learn, Pandas, web scrapping, Regression algorithm, Flask
+- **[Project 2: Bank Loan Prediction](#)**: Built a classification model to analyze that the user eligibke to get a Bankloan or not. Tools used: Python, Machine Learning, and Flask. Classification Algorithm.
+- **[Project 3: Titanic Data Analysis](#)**: Analyzed Titanic data to identify trends and patterns, driving actionable insights. Tools used: Python, Pandas, Matplotlib, Seaborn , EDA.
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhisharma&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhisharma&layout=compact&theme=radical)
+
+---
+
+### ⚡ Fun Fact
+
+I’m obsessed with creating meaningful stories from data and aspire to become a data scientist who drives positive impact in the real world.
