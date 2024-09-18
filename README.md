@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm **Nidhi Sharma**, an aspiring data scientist f
 - 🌱 **Skills**: Machine Learning, Python, SQL, Flask, Pandas, NumPy, Matplotlib, Scikit-learn, and more.
 - 🚀 **Currently Working On**: Hands-on machine learning projects, experimenting with real-world data, and continuously improving my skills.
 - 💼 **Hackerrank Achievements**: Proud holder of **4 stars in Python** and striving to master more!
-- 📫 **Let’s Connect**: Feel free to reach out via [Email](mailto:nidhisharma070405@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nidhi-sharma-1708b7285), [Portfolio](https://beautiful-begonia-ce9c12.netlify.app)
+- 📫 **Let’s Connect**: Feel free to reach out via [Email](mailto:nidhisharma070405@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nidhi-sharma-1708b7285), [Portfolio](https://nidhi070405.netlify.app)
 
 ---
 
