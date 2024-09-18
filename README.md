@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm **Nidhi Sharma**, an aspiring data scientist f
 Here are a few of my key projects. Feel free to explore!
 
 - **[Project 1: AMAZON-SMART-WATCH](https://github.com/Nidhi0704/AMAZON-SMART-WATCH/tree/main)**: Implemented a machine learning model to predict the amazon's smart watch price prediction based on various features. Tools used: Python, Scikit-learn, Pandas, web scrapping, Regression algorithm, Flask
-- **[Project 2: Bankloan-Prediction--Classification-Regression](#)**: Built a classification model to analyze that the user eligibke to get a Bankloan or not. Tools used: Python, Machine Learning, and Flask. Classification Algorithm.
+- **[Project 2: Bankloan-Prediction--Classification-Regression](https://github.com/Nidhi0704/Bankloan-Prediction/tree/main)**: Built a classification model to analyze that the user eligibke to get a Bankloan or not. Tools used: Python, Machine Learning, and Flask. Classification Algorithm.
 - **[Project 3: Human vs AI Text Classification](#)**: Build a classification model, that tell us about that the given text is written by AI or by the Human, Tools used:- Python, Feature engineering, Machine Learning (Naive Bayes), Model evaluation, and the Flask with HTML and CSS.
 - **[Project 4: Book Recommendation System](https://github.com/Nidhi0704/Book-Recommendation-System/tree/main)**: A Flask-based Book Recommendation System using a dataset of top 50 books, combining content-based and collaborative filtering for personalized recommendations based on user preferences and ratings.
 
