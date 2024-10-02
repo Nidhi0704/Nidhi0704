@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nidhi Sharma
 
-**💡 Data Science Enthusiast | 4-Star HackerRank in Python | Turning Data into Insights**
+**💡 Data Science Enthusiast | Silver Badge HackerRank in Python | Turning Data into Insights**
 
 ---
 
