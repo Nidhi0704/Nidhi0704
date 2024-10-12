@@ -27,6 +27,16 @@ Here are a few of my key projects. Feel free to explore!
 
 ---
 
+### 💻 Languages Used
+
+* **Programming Languages**: Python, SQL
+* **Data Science Tools**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Scikit-Learn
+* **Web Development**: Flask, HTML, CSS, JavaScript
+* **Version Control**: Git, GitHub
+* **Machine Learning**: Supervised and Unsupervised learning(Clustring, Association)
+
+---
+
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhisharma&show_icons=true&theme=radical)
