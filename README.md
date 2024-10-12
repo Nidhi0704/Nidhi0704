@@ -39,8 +39,8 @@ Here are a few of my key projects. Feel free to explore!
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nidhi0704&show_icons=true&theme=radical&token=YOUR_GITHUB_TOKEN)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi0704_USERNAME&layout=compact&theme=radical&token=YOUR_GITHUB_TOKEN)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nidhi0704&show_icons=true&theme=radical&token=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)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidhi0704&layout=compact&theme=radical&token=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)
 ---
 
 ### ⚡ Fun Fact
